@@ -1,0 +1,12 @@
+capital
+north
+east
+west
+south
+palace
+most
+tourist
+building
+sushi
+in the north of
+in the east of

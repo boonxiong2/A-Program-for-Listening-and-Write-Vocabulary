@@ -1,0 +1,8 @@
+e-friend
+country
+other
+team
+hobby
+grade
+yourself
+would like
